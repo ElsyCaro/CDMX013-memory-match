@@ -1,0 +1,38 @@
+body{
+margin: 0;
+padding: 0;   
+
+background-color: rgba(185, 236, 236, 0.933) ;
+
+background-size: cover;
+
+}
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.5rem;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    background-image: url("./img/ribbon.png");
+    background-size: cover;
+  }
+  
+  #logo {
+    width: 40vw;
+  }
+  div {
+    padding: 1em 2em 3em
+  
+  }
+img{
+  border-radius: 25px;
+  width: 195px;
+  height: 230px;
+  margin: 15px;
+}
+
